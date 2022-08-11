@@ -1,14 +1,14 @@
 # Conways-Game-of-Life
 INFO201 Final Project: an interactive simulation (programmed in Processing) aimed to illustrate the principles behind the famous Conway's Game of Life, and to have fun for sure. 
 
-/* Author Information
+# Author Information
 INFO201 
 shihe.pan@dukekunshan.edu.cn
 Prototype 2
-*/
 
 
-/* Basic Information of this software
+
+# Basic Information of this software
 This script is programmed in Processing 4.0b8, and tested in Processing 3.5.4, working successfully in both Windows and MacOS. 
 
 To successfully load the videos in it, you have to install the video library firstly. 
@@ -17,12 +17,11 @@ The video library I used is called "GStreamer-based video library for Processing
 Sometimes, the window may be out of the screen due to different resolution of different computers. 
 
 Please feel free to contact me if there is any problem when running this program. 
-*/ 
 
 
-/* 
-Reference List: 
 
+
+# Reference List: 
 1. The main idea comes from: 
 https://conwaylife.com/
 https://playgameoflife.com/
