@@ -39,4 +39,4 @@ https://conwaylife.com/
 http://golly.sourceforge.net/
 https://processing.org/examples/gameoflife.html
 http://stefanolupo.com/blog/2017/10/17/GameOfLife/
-*/
+
