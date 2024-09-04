@@ -2,7 +2,7 @@
 INFO201 Final Project: an interactive simulation (programmed in Processing) aimed to illustrate the principles behind the famous Conway's Game of Life, and to have fun for sure. 
 
 # Author Information
-emial: shihe.pan@duke.edu (primary); shihepan@outlook.com
+Email: shihe.pan@duke.edu (primary); shihepan@outlook.com
 
 
 
@@ -13,7 +13,7 @@ This script is programmed in Processing 4.0b8, and tested in Processing 3.5.4, w
 To successfully load the videos in it, you have to install the video library firstly. 
 The video library I used is called "GStreamer-based video library for Processing". 
 
-Sometimes, the window may be out of the screen due to different resolution of different computers. 
+Sometimes, the window may be out of the screen due to different resolution of computers. 
 
 Please feel free to contact me if there is any problem when running this program. 
 
